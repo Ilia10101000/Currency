@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Ilia10101000/Currency/static/js/main.df1492f6.js",
+    "static/media/my-photo-360.jpg": "/Ilia10101000/Currency/static/media/my-photo-360.212e1f6f8a4aeb204067.jpg",
+    "static/media/online.png": "/Ilia10101000/Currency/static/media/online.31615ed0c22f98078c64.png",
+    "static/media/offline.png": "/Ilia10101000/Currency/static/media/offline.8b25ffbd4b16e0a0292a.png",
+    "index.html": "/Ilia10101000/Currency/index.html",
+    "main.df1492f6.js.map": "/Ilia10101000/Currency/static/js/main.df1492f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df1492f6.js"
+  ]
+}
